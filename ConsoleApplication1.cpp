@@ -22,4 +22,5 @@ int main()
         x += h;
     } while (x <= x2 + h / 2);
     return 0;
+
 }
