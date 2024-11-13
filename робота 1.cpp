@@ -10,4 +10,5 @@ int main() {
     int newnumber = sto * 100 + od * 10 + desat;
     cout << "new numbers " << newnumber << endl;
     return 0;
+    // cooomment
 }
