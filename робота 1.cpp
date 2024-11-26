@@ -11,4 +11,5 @@ int main() {
     cout << "new numbers " << newnumber << endl;
     return 0;
     // cooomment
+    // внесення змін 2
 }
